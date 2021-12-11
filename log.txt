@@ -1,0 +1,213 @@
+Player Maduch1 has connected at 2021-12-09 19:08:10.366520
+Player LBelle222 has connected at 2021-12-09 19:08:10.366560
+Player Izuo has connected at 2021-12-09 19:10:13.127338
+Player LBelle222 has disconnected at 2021-12-09 19:22:47.878204
+Player LBelle222 has connected at 2021-12-09 19:24:58.325775
+Player BinZuru has connected at 2021-12-09 19:30:42.425616
+Player Frissian_Viking has connected at 2021-12-09 19:30:58.442222
+Player Maduch1 has disconnected at 2021-12-09 19:32:19.392829
+Player LBelle222 has disconnected at 2021-12-09 19:36:25.345500
+Player Frissian_Viking has disconnected at 2021-12-09 19:42:18.817767
+Player BinZuru has disconnected at 2021-12-09 20:08:53.733466
+Player BinZuru has connected at 2021-12-09 20:09:40.521801
+Player BinZuru has disconnected at 2021-12-09 20:10:28.637474
+Player BinZuru has connected at 2021-12-09 20:26:09.784110
+Player Izuo has disconnected at 2021-12-09 20:58:08.837845
+Player Frissian_Viking has connected at 2021-12-09 20:58:40.270391
+Player Frissian_Viking has disconnected at 2021-12-09 20:59:11.804693
+Player Frissian_Viking has connected at 2021-12-09 20:59:29.012023
+Player Frissian_Viking has disconnected at 2021-12-09 21:00:31.564115
+Player Frissian_Viking has connected at 2021-12-09 21:01:19.593349
+Player Frissian_Viking has disconnected at 2021-12-09 21:02:10.502374
+Player Frissian_Viking has connected at 2021-12-09 21:07:55.806369
+Player Frissian_Viking has disconnected at 2021-12-09 21:11:10.904166
+Player Maduch1 has connected at 2021-12-09 21:19:17.388932
+Player oldskoel1972 has connected at 2021-12-09 21:21:56.428703
+Player Frissian_Viking has connected at 2021-12-09 21:24:09.134203
+Player BinZuru has disconnected at 2021-12-09 21:29:11.621671
+Player BinZuru has connected at 2021-12-09 21:30:07.743239
+Player oldskoel1972 has disconnected at 2021-12-09 21:30:54.645730
+Player oldskoel1972 has connected at 2021-12-09 21:33:32.675563
+Player BinZuru has disconnected at 2021-12-09 21:56:32.745759
+Player Frissian_Viking has disconnected at 2021-12-09 21:58:43.916177
+Player Maduch1 has disconnected at 2021-12-09 22:05:07.385383
+Player BinZuru has connected at 2021-12-09 22:08:18.563380
+Player Frissian_Viking has connected at 2021-12-09 22:12:37.474018
+Player oldskoel1972 has disconnected at 2021-12-09 22:32:00.943855
+Player BinZuru has disconnected at 2021-12-09 22:58:16.188442
+Player BinZuru has connected at 2021-12-09 22:59:56.201067
+Player Frissian_Viking has disconnected at 2021-12-09 23:03:57.349999
+Player BinZuru has disconnected at 2021-12-09 23:03:57.350031
+Player Frissian_Viking has connected at 2021-12-09 23:04:12.934309
+Player BinZuru has connected at 2021-12-09 23:04:12.934330
+Player LBelle222 has connected at 2021-12-09 23:05:49.297938
+Player LBelle222 has disconnected at 2021-12-09 23:06:52.233593
+Player Frissian_Viking has disconnected at 2021-12-09 23:07:40.264893
+Player bibasik7 has connected at 2021-12-09 23:13:14.319108
+Player LBelle222 has connected at 2021-12-09 23:23:03.400088
+Player LBelle222 has disconnected at 2021-12-09 23:27:46.632946
+Player Izuo has connected at 2021-12-09 23:46:07.958352
+Player BinZuru has disconnected at 2021-12-09 23:53:28.798518
+Player BinZuru has connected at 2021-12-09 23:54:17.408883
+Player Maduch1 has connected at 2021-12-09 23:55:04.335184
+System went online at 2021-12-09 23:57:29.167382
+Player bibasik7 has connected at 2021-12-09 23:57:30.790057
+Player Izuo has connected at 2021-12-09 23:57:30.790208
+Player BinZuru has connected at 2021-12-09 23:57:30.790311
+Player Maduch1 has connected at 2021-12-09 23:57:30.790390
+System encountered error 'no such table: Playtimes' at 2021-12-09 23:57:30.790666
+System encountered error 'no such table: Playtimes' at 2021-12-09 23:58:01.882881
+System went online at 2021-12-09 23:58:46.094673
+Player bibasik7 has connected at 2021-12-09 23:58:46.618782
+Player Izuo has connected at 2021-12-09 23:58:46.618929
+Player BinZuru has connected at 2021-12-09 23:58:46.619033
+Player Maduch1 has connected at 2021-12-09 23:58:46.619142
+System encountered error 'no such table: playtimes' at 2021-12-09 23:58:46.619535
+System encountered error 'no such table: playtimes' at 2021-12-09 23:59:02.195572
+System encountered error 'no such table: playtimes' at 2021-12-09 23:59:17.967241
+System went online at 2021-12-09 23:59:36.034210
+Player bibasik7 has connected at 2021-12-09 23:59:36.604986
+Player Izuo has connected at 2021-12-09 23:59:36.605123
+Player BinZuru has connected at 2021-12-09 23:59:36.605202
+Player Maduch1 has connected at 2021-12-09 23:59:36.605273
+System encountered error 'list indices must be integers or slices, not str' at 2021-12-09 23:59:36.607342
+System went online at 2021-12-10 19:09:34.418269
+System went online at 2021-12-10 19:10:10.205177
+System went online at 2021-12-10 19:13:35.601197
+System went online at 2021-12-10 19:14:13.992771
+System went online at 2021-12-10 19:14:24.636248
+System went online at 2021-12-10 19:16:54.925047
+System went online at 2021-12-10 19:17:22.700217
+System went online at 2021-12-10 19:17:52.346642
+Player kriepEEr123 has connected at 2021-12-10 19:18:57.182537
+Player Izuo has connected at 2021-12-10 19:18:57.182614
+Player BENZU_ has connected at 2021-12-10 19:18:57.182665
+Player oldskoel1972 has connected at 2021-12-10 19:18:57.182689
+System encountered error 'no such column: Izuo' at 2021-12-10 19:18:57.182931
+System encountered error 'no such column: kriepEEr123' at 2021-12-10 19:19:12.780215
+System went online at 2021-12-10 19:19:20.399361
+System went online at 2021-12-10 19:20:16.498180
+Player kriepEEr123 has connected at 2021-12-10 19:20:27.423065
+Player Izuo has connected at 2021-12-10 19:20:27.423347
+Player BENZU_ has connected at 2021-12-10 19:20:27.423519
+Player oldskoel1972 has connected at 2021-12-10 19:20:27.423672
+System encountered error 'no such column: Izuo' at 2021-12-10 19:20:27.424631
+System encountered error 'no such column: kriepEEr123' at 2021-12-10 19:20:44.305027
+System encountered error 'no such column: kriepEEr123' at 2021-12-10 19:21:10.599980
+Player oldskoel1972 has disconnected at 2021-12-10 19:21:26.192976
+System encountered error 'no such column: kriepEEr123' at 2021-12-10 19:21:26.193409
+System went online at 2021-12-10 19:21:37.406345
+Player kriepEEr123 has connected at 2021-12-10 19:22:38.882832
+Player Izuo has connected at 2021-12-10 19:22:38.883167
+Player BENZU_ has connected at 2021-12-10 19:22:38.883338
+System encountered error 'near "username": syntax error' at 2021-12-10 19:22:38.884015
+System encountered error 'near "username": syntax error' at 2021-12-10 19:22:56.123805
+System encountered error 'near "username": syntax error' at 2021-12-10 19:23:12.280561
+System encountered error 'near "username": syntax error' at 2021-12-10 19:23:27.857393
+System encountered error 'near "username": syntax error' at 2021-12-10 19:23:43.307663
+System encountered error 'near "username": syntax error' at 2021-12-10 19:24:09.402284
+System encountered error 'near "username": syntax error' at 2021-12-10 19:24:24.914590
+System encountered error 'near "username": syntax error' at 2021-12-10 19:24:42.902070
+System encountered error 'near "username": syntax error' at 2021-12-10 19:25:01.190671
+System encountered error 'near "username": syntax error' at 2021-12-10 19:25:17.724001
+System encountered error 'near "username": syntax error' at 2021-12-10 19:25:38.777637
+System encountered error 'near "username": syntax error' at 2021-12-10 19:25:55.301246
+System encountered error 'near "username": syntax error' at 2021-12-10 19:26:18.672437
+System encountered error 'near "username": syntax error' at 2021-12-10 19:26:39.965511
+System encountered error 'near "username": syntax error' at 2021-12-10 19:26:55.825624
+System encountered error 'near "username": syntax error' at 2021-12-10 19:27:15.955847
+System encountered error 'near "username": syntax error' at 2021-12-10 19:27:31.368650
+System encountered error 'near "username": syntax error' at 2021-12-10 19:27:47.139126
+System encountered error 'near "username": syntax error' at 2021-12-10 19:28:02.799358
+System encountered error 'near "username": syntax error' at 2021-12-10 19:28:18.481394
+System encountered error 'near "username": syntax error' at 2021-12-10 19:28:34.267371
+System encountered error 'near "username": syntax error' at 2021-12-10 19:28:50.269194
+System encountered error 'near "username": syntax error' at 2021-12-10 19:29:05.968937
+Player BENZU_ has disconnected at 2021-12-10 19:29:24.612046
+System encountered error 'near "username": syntax error' at 2021-12-10 19:29:24.612193
+System encountered error 'near "username": syntax error' at 2021-12-10 19:29:40.094390
+System encountered error 'near "username": syntax error' at 2021-12-10 19:29:59.958167
+System encountered error 'near "username": syntax error' at 2021-12-10 19:30:17.158600
+System encountered error 'near "username": syntax error' at 2021-12-10 19:30:32.972976
+System encountered error 'near "username": syntax error' at 2021-12-10 19:30:51.467164
+System encountered error 'near "username": syntax error' at 2021-12-10 19:31:08.557652
+System encountered error 'near "username": syntax error' at 2021-12-10 19:31:24.687784
+System encountered error 'near "username": syntax error' at 2021-12-10 19:31:45.582294
+System encountered error 'near "username": syntax error' at 2021-12-10 19:32:02.267469
+System encountered error 'near "username": syntax error' at 2021-12-10 19:32:18.606096
+System encountered error 'near "username": syntax error' at 2021-12-10 19:32:34.200925
+System encountered error 'near "username": syntax error' at 2021-12-10 19:32:49.945551
+Player Maduch1 has connected at 2021-12-10 19:33:07.722055
+System encountered error 'list indices must be integers or slices, not str' at 2021-12-10 19:33:07.722381
+Player Maduch1 has connected at 2021-12-10 19:33:23.425890
+System encountered error 'list indices must be integers or slices, not str' at 2021-12-10 19:33:23.426212
+Player Maduch1 has connected at 2021-12-10 19:33:38.871037
+System encountered error 'list indices must be integers or slices, not str' at 2021-12-10 19:33:38.871120
+Player Maduch1 has connected at 2021-12-10 19:33:59.140194
+System encountered error 'list indices must be integers or slices, not str' at 2021-12-10 19:33:59.140366
+Player Maduch1 has connected at 2021-12-10 19:34:16.550811
+System encountered error 'list indices must be integers or slices, not str' at 2021-12-10 19:34:16.550935
+Player Maduch1 has connected at 2021-12-10 19:34:32.209593
+System encountered error 'list indices must be integers or slices, not str' at 2021-12-10 19:34:32.209675
+Player Maduch1 has connected at 2021-12-10 19:34:47.789629
+System encountered error 'list indices must be integers or slices, not str' at 2021-12-10 19:34:47.789714
+Player Maduch1 has connected at 2021-12-10 19:35:03.279124
+System encountered error 'list indices must be integers or slices, not str' at 2021-12-10 19:35:03.279427
+System went online at 2021-12-10 19:35:22.470996
+Player kriepEEr123 has connected at 2021-12-10 19:35:43.585241
+Player Izuo has connected at 2021-12-10 19:35:43.585333
+Player Maduch1 has connected at 2021-12-10 19:35:43.585366
+System encountered error 'near "username": syntax error' at 2021-12-10 19:35:43.585523
+Player BENZU_ has connected at 2021-12-10 19:36:00.100005
+System encountered error 'list indices must be integers or slices, not str' at 2021-12-10 19:36:00.100086
+Player BENZU_ has connected at 2021-12-10 19:36:15.648191
+System encountered error 'list indices must be integers or slices, not str' at 2021-12-10 19:36:15.648499
+System went online at 2021-12-10 19:36:24.503240
+System went online at 2021-12-10 19:36:29.490460
+Player kriepEEr123 has connected at 2021-12-10 19:36:34.897599
+Player Izuo has connected at 2021-12-10 19:36:34.897677
+Player Maduch1 has connected at 2021-12-10 19:36:34.897705
+Player BENZU_ has connected at 2021-12-10 19:36:34.897738
+System encountered error 'near "username": syntax error' at 2021-12-10 19:36:34.897890
+System encountered error 'near "username": syntax error' at 2021-12-10 19:36:53.443831
+System encountered error 'near "username": syntax error' at 2021-12-10 19:37:10.039212
+System encountered error 'near "username": syntax error' at 2021-12-10 19:37:28.447219
+System encountered error 'near "username": syntax error' at 2021-12-10 19:37:44.110922
+System encountered error 'near "username": syntax error' at 2021-12-10 19:38:01.953035
+System encountered error 'near "username": syntax error' at 2021-12-10 19:38:18.735259
+System encountered error 'near "username": syntax error' at 2021-12-10 19:38:36.347141
+System encountered error 'near "username": syntax error' at 2021-12-10 19:38:52.310089
+Player kriepEEr123 has disconnected at 2021-12-10 19:39:09.058207
+System encountered error 'no such column: Izuo' at 2021-12-10 19:39:09.058352
+System encountered error 'no such column: Izuo' at 2021-12-10 19:39:32.095547
+System encountered error 'no such column: Izuo' at 2021-12-10 19:39:47.619220
+System encountered error 'no such column: Izuo' at 2021-12-10 19:40:15.552416
+System encountered error 'no such column: Izuo' at 2021-12-10 19:40:31.441011
+System encountered error 'no such column: Izuo' at 2021-12-10 19:40:46.897808
+System encountered error 'no such column: Izuo' at 2021-12-10 19:41:05.432838
+System went online at 2021-12-10 19:41:11.302206
+Player Izuo has connected at 2021-12-10 19:41:14.969578
+Player Maduch1 has connected at 2021-12-10 19:41:14.969763
+Player BENZU_ has connected at 2021-12-10 19:41:14.969858
+System encountered error 'no such column: Izuo' at 2021-12-10 19:41:14.970273
+System encountered error 'no such column: Izuo' at 2021-12-10 19:41:30.554824
+System encountered error 'no such column: Izuo' at 2021-12-10 19:41:46.175726
+System went online at 2021-12-10 20:15:59.564370
+System shutdown at 2021-12-10 20:16:14.004506
+System went online at 2021-12-10 20:16:17.760358
+System encountered error 'local variable 'online' referenced before assignment' at 2021-12-10 20:16:21.907294
+System shutdown at 2021-12-10 20:16:25.425600
+System went online at 2021-12-10 20:18:08.822096
+System encountered error 'local variable 'online' referenced before assignment' at 2021-12-10 20:18:12.772635
+System encountered error 'local variable 'online' referenced before assignment' at 2021-12-10 20:18:27.439411
+System shutdown at 2021-12-10 20:18:41.666355
+System went online at 2021-12-10 20:30:54.936423
+System shutdown at 2021-12-10 20:31:02.847022
+System went online at 2021-12-10 20:31:11.513394
+System encountered error 'local variable 'online' referenced before assignment' at 2021-12-10 20:31:15.441689
+System shutdown at 2021-12-10 20:31:19.421966
+System went online at 2021-12-10 20:31:54.992742
+Player BinZuru has connected at 2021-12-10 20:31:58.597202
+Player Maduch1 has connected at 2021-12-10 20:31:58.597487
+System encountered error 'no such column: BinZuru' at 2021-12-10 20:31:58.598319
+System shutdown at 2021-12-10 20:32:02.562753
