@@ -1,3 +1,6 @@
+import time
+
+import nextcord
 from mcstatus import MinecraftServer
 import sqlite3
 
@@ -6,15 +9,17 @@ import socket
 
 # Timekeeping
 import datetime
-import time
 
-import discord
-from discord.ext import commands, tasks
+import nextcord as discord
+from nextcord.ext import commands, tasks
 
+# Whatever nextcord needs
+import logging
+logging.basicConfig(level=logging.INFO)
 
+# Configure bot
 intents = discord.Intents.default()
 intents.members = True
-intents.presences = True
 command_prefix = "$$"
 VRSMP_bot = commands.Bot(command_prefix=command_prefix, intents=intents)
 
@@ -28,8 +33,7 @@ def log(entry):
 
 @tasks.loop(seconds=15.0)
 async def check_java():
-    global VILLAGER_RIGHTS
-    global STATUS_CHANNEL
+    global status_channel
     global online
     global currently_online
 
@@ -54,13 +58,11 @@ async def check_java():
         for i in query.players.names:
             if i not in currently_online:
                 log(f'Player {i} has connected at {datetime.datetime.now()}')
-                currently_online[i] = datetime.datetime.now()
+                currently_online[i] = round(time.time())
         for i in currently_online:
             if i not in query.players.names:
                 log(f'Player {i} has disconnected at {datetime.datetime.now()}')
-                currently_online.remove(i)
-
-        currently_online = query.players.names  # Update currently online players
+                del currently_online[i]
 
         # Update playtimes
         existing_users = list(map(lambda x: x[0], cur.execute(f"""SELECT * FROM playtimes""").fetchall()))
@@ -74,7 +76,7 @@ async def check_java():
     except Exception as e:
         log(f"System encountered error '{e}' at {datetime.datetime.now()}")
 
-
+    # Create post
     if online:
         if len(currently_online) > 0:
             status_embed = discord.Embed(
@@ -84,7 +86,7 @@ async def check_java():
             )
 
             for user in currently_online:
-                status_embed.add_field(name=user, value=f'since {currently_online[user]}')
+                status_embed.add_field(name=user, value=f'since <t:{currently_online[user]}:t>')
         else:
             status_embed = discord.Embed(
                 title="Server is Online",
@@ -98,21 +100,23 @@ async def check_java():
             colour=discord.Colour.dark_gray()    # Grey to indicate server being offline
         )
 
-    await STATUS_CHANNEL.purge(limit=2)
-    await STATUS_CHANNEL.send(embed=status_embed)
+    button = nextcord.ui.Button(label='Server log', style=nextcord.ButtonStyle.link, url='google.com')
+
+    #await status_channel.purge(limit=2)
+    await status_channel.send(embed=status_embed, components=[button])
+
 
 @VRSMP_bot.event
 async def on_ready():
-    global VILLAGER_RIGHTS
-    global STATUS_CHANNEL
+    global status_channel
     global online
     global currently_online
 
-    # VILLAGER_RIGHTS = VRSMP_bot.get_guild(712477764510547969)
-    # STATUS_CHANNEL = VILLAGER_RIGHTS.get_channel(770638692901060608)
+    # villager_rights_discord = VRSMP_bot.get_guild(712477764510547969)
+    # status_channel = villager_rights_discord.get_channel(770638692901060608)
 
-    VILLAGER_RIGHTS = VRSMP_bot.get_guild(813237197993148476)
-    STATUS_CHANNEL = VILLAGER_RIGHTS.get_channel(875588617156821102)
+    villager_rights_discord = VRSMP_bot.get_guild(813237197993148476)
+    status_channel = villager_rights_discord.get_channel(875588617156821102)
 
     online = True  # Whether server is online or not. Used for logging and avoiding error with query.
     currently_online = {}  # ""List"" of currently connected players.
@@ -124,14 +128,15 @@ if __name__ == '__main__':
 
     log(f'System went online at {datetime.datetime.now()}')  # Announce system starting up
 
-    # Connect some constants
+    # Connect the server
     server = MinecraftServer("villagerrights.xyz")
 
+    # Connect the database
     con = sqlite3.connect('data.db')
     cur = con.cursor()
 
-    # Login the bot
-    with open("token.txt", "r") as f:
-        VRSMP_bot.run(f.readline())
+    # Start the bot
+    with open("token.txt", "r") as token:
+        VRSMP_bot.run(token.readline())
 
     log(f'System shutdown at {datetime.datetime.now()}')  # Announce system shutting down
